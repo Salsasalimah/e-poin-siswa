@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initical-scale=1.0">
-    <tittle>Laravel 11 </tittle>
+    <title>Laravel 11 </title>
 </head>
 
 <body>
